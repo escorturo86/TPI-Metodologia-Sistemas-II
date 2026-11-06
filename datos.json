@@ -1,0 +1,11 @@
+{
+  "estudiantes": [
+    {"id": 1, "nombre": "Ana López"},
+    {"id": 2, "nombre": "Luis Pérez"}
+  ],
+  "responsables": [
+    {"id": 1, "nombre": "María Gómez"},
+    {"id": 2, "nombre": "Carlos Ruiz"}
+  ],
+  "solicitudes": []
+}
