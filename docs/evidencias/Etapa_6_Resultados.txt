@@ -1,0 +1,13 @@
+01. OK - Registro de solicitud
+02. OK - Asignación de responsable
+03. OK - Cambio de estado
+04. OK - Filtro por estado
+05. OK - Reporte
+06. OK - Persistencia tras reiniciar
+07. OK - ID inexistente sin guardar
+08. OK - ID no convertible
+09. OK - JSON mal formado
+10. OK - JSON incompleto
+11. OK - Ruta e importación sin menú
+12. OK - Campos correctos y sin archivo temporal
+RESULTADO: 12/12 comprobaciones aprobadas
